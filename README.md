@@ -2,7 +2,7 @@
 
 This is a **Flask-based delivery challan generator** created specifically for internal use at Krishnakala Developers and their RMC Plant.
 
-> 🖥️ Visit the live app: [https://your-deployed-url.com](https://challan-generator-app.onrender.com)
+> 🖥️ Visit the live app: [Challan Generator App](https://challan-generator-app.onrender.com)
 
 ## 🚀 Features
 
