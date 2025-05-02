@@ -32,3 +32,7 @@ For any questions or feedback, please reach out to [nar-en57](https://github.com
 ## License
 
 © 2025 Naren Jamdar. All rights reserved.
+
+This project is provided for demonstration purposes only. Redistribution, modification, or commercial use is not permitted without prior written consent.
+
+All rights reserved.
