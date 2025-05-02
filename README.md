@@ -1,24 +1,28 @@
 # Challan Generator for Krishnakala Developers & RMC Plant 🏗️
 
-https://challan-generator-app.onrender.com
+This is a **Flask-based delivery challan generator** created specifically for internal use at Krishnakala Developers and their RMC Plant.
 
-This is a Flask-based web application for generating, editing, viewing, and downloading delivery challans. Built specifically for Krishnakala Developers and their RMC Plant operations.
+> 🖥️ Visit the live app: [https://your-deployed-url.com](https://challan-generator-app.onrender.com)
 
 ## 🚀 Features
 
-- Auto and manual Challan No. generation
-- PDF creation of challans
-- Database backup and restore
-- Search and edit functionality
-- Flash messages for user actions
-- Clean UI with record listings
+- Auto/manual challan number generation
+- PDF export of challans
+- Search, edit, and backup options
+- Clean and simple UI
+- Flash messages for feedback
 
-## 🛠 Built With
+## 🔒 Source Code
 
-- Python & Flask
-- SQLite (or your preferred DB)
-- ReportLab (for PDF generation)
-- HTML/CSS (custom frontend)
+This is a **private/internal project**, so the source code is not publicly available.
 
+If you are part of the Krishnakala Developers team or have been granted access, please contact the admin for credentials or collaboration.
 
+## 📦 Tech Stack
 
+- Python, Flask
+- SQLite
+- ReportLab
+- HTML/CSS
+
+© 2025 Naren Jamdar. All rights reserved.
