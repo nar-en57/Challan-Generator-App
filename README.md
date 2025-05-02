@@ -16,7 +16,7 @@ This is a **Flask-based delivery challan generator** created specifically for in
 
 This is a **private/internal project**, so the source code is not publicly available.
 
-If you are part of the Krishnakala Developers team or have been granted access, please contact the admin for credentials or collaboration.
+Please contact the admin for credentials or collaboration.
 
 ## 📦 Tech Stack
 
