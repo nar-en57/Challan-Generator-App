@@ -32,7 +32,7 @@
         <em>Ready Mix Concrete</em>
       </td>
       <td align="center">
-        <img src="https://www.flaticon.com/free-icon/delivery_870181?term=delivery&related_id=870181"/><br>
+        <img src=""/><br>
         <strong>Delivery Management</strong><br>
         <em>Challan Generation</em>
       </td>
