@@ -32,7 +32,8 @@
         <em>Ready Mix Concrete</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/411/411763.png" width="60" height="60" alt="Delivery"/><br>
+        <img src="![image](https://github.com/user-attachments/assets/a6637157-61cd-4201-819d-68847005049d)
+"/><br>
         <strong>Delivery Management</strong><br>
         <em>Challan Generation</em>
       </td>
