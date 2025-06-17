@@ -32,7 +32,7 @@
         <em>Ready Mix Concrete</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/11230/11230006.png" width="60" height="60" alt="Delivery Management"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/4847/4847543.png" width="60" height="60" alt="Delivery Management"/><br>
         <strong>Delivery Management</strong><br>
         <em>Challan Generation</em>
       </td>
@@ -56,7 +56,7 @@
         <em>Professional challan documents</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/3917/3917132.png" width="40" height="40" alt="Search & Edit"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/3917/3917688.png" width="40" height="40" alt="Search & Edit"/><br>
         <strong>Search & Edit</strong><br>
         <em>Easy record management</em>
       </td>
