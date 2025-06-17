@@ -56,7 +56,7 @@
         <em>Professional challan documents</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/1159/1159633.png" width="40" height="40" alt="Search & Edit"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/2920/2920726.png" width="40" height="40" alt="Search & Edit"/><br>
         <strong>Search & Edit</strong><br>
         <em>Easy record management</em>
       </td>
