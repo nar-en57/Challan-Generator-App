@@ -32,7 +32,7 @@
         <em>Ready Mix Concrete</em>
       </td>
       <td align="center">
-        <img src=""/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/11230/11230006.png" width="60" height="60" alt="Delivery Management"/><br>
         <strong>Delivery Management</strong><br>
         <em>Challan Generation</em>
       </td>
@@ -56,14 +56,14 @@
         <em>Professional challan documents</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/751/751463.png" width="40" height="40" alt="Search"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/3917/3917132.png" width="40" height="40" alt="Search & Edit"/><br>
         <strong>Search & Edit</strong><br>
         <em>Easy record management</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/1358/1358023.png" width="40" height="40" alt="Backup"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/9543/9543989.png" width="40" height="40" alt="Backup Options"/><br>
         <strong>Backup Options</strong><br>
         <em>Data security & recovery</em>
       </td>
@@ -91,7 +91,7 @@
         <strong>Python</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/8297/8297326.png" width="50" height="50" alt="Flask"/><br>
         <strong>Flask</strong>
       </td>
       <td align="center">
